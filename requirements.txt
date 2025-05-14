@@ -1,0 +1,6 @@
+Django>=5.2.1
+djangorestframework
+django-cors-headers
+htmx>=1.9.3  # ✅ For frontend interaction
+gunicorn>=21.2.0  # ✅ For production deployment (optional)
+whitenoise>=6.5.0  # ✅ Serve static files efficiently
